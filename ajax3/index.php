@@ -8,6 +8,7 @@
 <body>
 	<div id="load"> <p>click></p</div>
 	<div id="noidung"></div>
+	<p>không có gì khó khăn hết chỉ cần kiên nhẫn thôi</p>
 </body>
 <script type="text/javascript">
 	$(document).ready(function(){
