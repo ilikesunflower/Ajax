@@ -8,6 +8,7 @@
 </head>
 <body>
 	<div id="load"><p>load dữ liệu</p></div>
+	<p>fighing nk</p>
 <!-- Modal -->
 <div id="myModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
