@@ -8,6 +8,7 @@
 <body >
 	<div>
 		<p style="width: 20%"><a id="load_db">lấy dữ liệu:</a></p>
+		<p>Ta là chúa tể muôn loài đây .meo meo</p>
 	</div>
 	<div id="noidung" style=""></div>
 

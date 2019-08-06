@@ -19,6 +19,7 @@
             $.get('text.php',{
             	one: "Hai ba bốn",
             	two: "năm sáu bảy"
+				
             } ,function(ketqua) {
             
                 $('#noidung').html(ketqua);
