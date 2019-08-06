@@ -7,6 +7,7 @@
 </head>
 <body>
 	<div id="load"> <p>click></p</div>
+		<p>cố lên nào fighting!</p>
 	<div id="noidung"></div>
 	<p>không có gì khó khăn hết chỉ cần kiên nhẫn thôi</p>
 </body>
