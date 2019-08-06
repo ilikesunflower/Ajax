@@ -8,6 +8,7 @@
 <body>
 	<div>
 		<p id="ductinh">Những đức tính cần có để trở thành lập trình viên tốt.</p>
+		<p>Học Hành không nên là ko tròn bổn phận của cuộc đời giao cho mình đâu nha</p>
 	</div>
 	<div id="noidung"></div>
 </body>
