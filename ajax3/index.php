@@ -10,7 +10,11 @@
 		<p>cố lên nào fighting!</p>
 	<div id="noidung"></div>
 	<p>không có gì khó khăn hết chỉ cần kiên nhẫn thôi</p>
+<<<<<<< HEAD
 	<p>hehehehehe thêm thêm</p>
+=======
+	<p>bông lúa thơm lừng vàng óng</p>
+>>>>>>> master
 </body>
 <script type="text/javascript">
 	$(document).ready(function(){
